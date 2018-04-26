@@ -1,0 +1,170 @@
+.background1 {
+  background-color: #f0f0f0;
+	text-align: center;
+}
+
+.background2 {
+  /* background-color: #4a1067; */
+  background: #664a8c; /* Old Browsers */
+	background: -webkit-radial-gradient(center,#73438C,#35134D); /*Safari 5.1-6*/
+	background: -o-radial-gradient(center,#73438C,#35134D); /*Opera 11.1-12*/
+	background: -moz-radial-gradient(center,#73438C,#35134D); /*Fx 3.6-15*/
+	background: radial-gradient(ellipse at center, #73438C,#35134D); /*Standard*/
+	text-align: center;
+	text-align: center;
+}
+
+.background3 {
+  background-color: #ffeb00;
+	text-align: center;
+}
+
+.background4 {
+  background-color: #fff;
+	text-align: center;
+}
+
+.with90 {
+  width: 90%;
+}
+#imgTopExito{
+	margin-top: 30px;
+  margin-bottom: 30px;
+	width: 90%;
+}
+
+#imgButton04{
+	margin-top: 20px;
+  margin-bottom: 15px;
+	width: 80%;
+}
+
+#imgButton05{
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+#imgButton06{
+  width: 50%
+}
+
+#imgButton07{
+  width: 20%
+}
+
+#imgButton01_05{
+  margin-bottom: 20px;
+  width: 80%;
+}
+
+#imgButton11{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+#imgButton12{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 90%;
+}
+
+#imgButton13{
+  width: 64%;
+  margin-left: 37%;
+}
+
+#imgButton14{
+  margin-bottom: 30px;
+  margin-top: 10px;
+  width: 53%;
+  margin-left: 27%;
+}
+
+#imgButton15{
+  margin-top: 15px;
+  width: 90%;
+}
+
+#imgButton16{
+  margin-bottom: 15px;
+  width: 90%;
+}
+
+#imgButton18{
+  /* margin-top: 15px;
+  margin-bottom: 15px; */
+  margin: 30px;
+  width: 45%;
+}
+
+#imgButton17{
+  margin-bottom: 15px;
+  width: 50%;
+}
+
+#legalFooter{
+  font-size: 10px;
+  font-family: sans-serif;
+  text-align: justify;
+}
+
+@media (max-width: 575px) {
+  #imgButton06{
+    width: 80%;
+  }
+  #imgButton07{
+    width: 60%;
+    width: 60%;
+    margin-top: 30px;
+  }
+  #imgButton13 {
+    width: 98%;
+    margin-left: 12%;
+    margin-top: 10px;
+  }
+  #imgButton14 {
+    margin-bottom: 30px;
+    margin-top: 10px;
+    width: 90%;
+    margin-left: 10%;
+  }
+  #imgButton18 {
+    margin: 20px;
+    width: 84%;
+  }
+  #imgButton17 {
+    margin-bottom: 17px;
+    width: 85%;
+  }
+  #imgButton08{
+    margin-top: 20px;
+    width: 90%;
+  }
+  #imgButton09{
+    margin-top: 5px;
+    width: 75%;
+  }
+  #imgButton10{
+    width: 68%;
+  }
+  #imgTopExito {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 4%;
+    width: 88%;
+  }
+  #imgButton15 {
+    margin-top: 15px;
+    width: 100%;
+  }
+  #imgButton16 {
+    margin-bottom: 15px;
+    width: 100%;
+  }
+  .logofin{
+    width: 90%;
+  }
+
+
+
+}
